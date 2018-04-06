@@ -1,0 +1,6 @@
+__pycache__/
+*.tar.gz
+*.p
+image_classification.data-00000-of-00001
+image_classification.index
+image_classification.meta
